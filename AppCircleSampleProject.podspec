@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AppCircleSampleProject'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = 'Add short description to explain your library'
   s.description      = <<-DESC
   Add long description to explain your library
