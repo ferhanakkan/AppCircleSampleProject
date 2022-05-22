@@ -1,0 +1,16 @@
+PODS:
+  - AppCircleSampleProject (1.0.0)
+
+DEPENDENCIES:
+  - AppCircleSampleProject (from `../`)
+
+EXTERNAL SOURCES:
+  AppCircleSampleProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AppCircleSampleProject: 9591256f3bc96996142e6d9082d919bfcb572f74
+
+PODFILE CHECKSUM: 206c05c7218f2f819ee3afd9f8d913a50dd30b0e
+
+COCOAPODS: 1.11.3

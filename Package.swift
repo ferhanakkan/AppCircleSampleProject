@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .target(
             name: "AppCircleSampleProject",
-            dependencies: [])
+            path: "Sources"),
     ],
     swiftLanguageVersions: [
         .v5

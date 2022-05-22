@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '11.0'
+
+target 'AppCircleSampleProject_Example' do
+  pod 'AppCircleSampleProject', :path => '../'
+
+end
+

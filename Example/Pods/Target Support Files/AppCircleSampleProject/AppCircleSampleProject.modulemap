@@ -1,0 +1,6 @@
+framework module AppCircleSampleProject {
+  umbrella header "AppCircleSampleProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
